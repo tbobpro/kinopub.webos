@@ -13,7 +13,10 @@ module.exports = {
         },
       },
       spacing: {
+        34: '8.5rem',
         58: '14.5rem',
+        74: '18.5rem',
+        76: '19rem',
       },
       minHeight: {
         9: '2.25rem',
